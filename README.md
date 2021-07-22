@@ -31,8 +31,8 @@ WHEN I click on the Save button on a book<br>
 THEN that book’s information is saved to my account<br>
 WHEN I click on the option to see my saved books<br>
 THEN I am presented with all of the books I have saved to my account, each featuring the book’s title, author, description, image, and a link to that book on the Google Books site and a button to remove a book from my account<br>
-WHEN I click on the Remove button on a book<br>![21-mern-homework-demo-01](https://user-images.githubusercontent.com/77178392/126627061-460caa92-8680-4550-ad3f-855b14f8ec0a.gif)
-
+WHEN I click on the Remove button on a book<br>
 THEN that book is deleted from my saved books list<br>
 WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
+![21-mern-homework-demo-01](https://user-images.githubusercontent.com/77178392/126627061-460caa92-8680-4550-ad3f-855b14f8ec0a.gif)
