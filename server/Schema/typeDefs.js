@@ -1,4 +1,5 @@
 const { gql } = require('apollo-server-express');
+
 const typeDefs = gql`
 
 type Book {
@@ -30,5 +31,6 @@ type User {
     bookCount: Int,
     savedBooks: [Book]
 }
+
 `;
 module.exports = typeDefs;
